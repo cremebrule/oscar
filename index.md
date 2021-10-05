@@ -53,7 +53,6 @@ Learning performant robot manipulation policies can be challenging due to high-d
 
 {% include members.html %}
 
-<!-- No citation in review version
 # Citation
 
 ```bibtex
@@ -63,4 +62,4 @@ Learning performant robot manipulation policies can be challenging due to high-d
   booktitle={arXiv preprint arXiv:2110.00704},
   year={2021}
 }
-``` -->
+```
