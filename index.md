@@ -53,13 +53,14 @@ Learning performant robot manipulation policies can be challenging due to high-d
 
 {% include members.html %}
 
+<!-- No citation in review version
 # Citation
 
 ```bibtex
 @inproceedings{wong2021oscar,
   title={OSCAR: Data-Driven Operational Space Control for Adaptive and Robust Robot Manipulation},
   author={Josiah Wong and Viktor Makoviychuk and Anima Anandkumar and Yuke Zhu},
-  booktitle={arXiv preprint arXiv:TBD},
+  booktitle={arXiv preprint arXiv:2110.00704},
   year={2021}
 }
-```
+``` -->
